@@ -1,3 +1,6 @@
 this is my reg page
-my manager work started
-my manager work is done
+1st day of code
+2nd day of code
+3rd day of code
+4th day of code
+5th day of work
